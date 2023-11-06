@@ -1,0 +1,30 @@
+The variable type called float stores:
+integers
+writings
+floating point numbers
+single characters
+c
+Pausing the execution of the program for 2 seconds you will get the instruction:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+d
+Which declaration is written correctly?
+int x;
+integer x;
+x:integer;
+x=integer;
+a
+From what range the number will be drawn: rand()%10+2
+0..9
+2..9
+2..11
+0..11
+c
+How many times the loop is executed: for (int i=4; i>=-2; i--)
+neither once
+infinitely many times
+6
+7
+d
